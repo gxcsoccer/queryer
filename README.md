@@ -1,0 +1,2 @@
+# queryer
+rust sql queryer
